@@ -63,6 +63,8 @@ public class FormatTemplateV3 {
     
     // ***** Print Formatted Output *****
     
+    System.out.println();
+    
     // ***** Closing Message *****
     
         System.out.println();
